@@ -17,7 +17,7 @@ console.log("The navigator's name is", hacker2)
     console.log( "Driver has the longest name")
     }
 
-    // Iteration 3: Loops
+// Iteration 3: Loops
 //Change to capital letters and add space
     print1= hacker1.toLocaleUpperCase().split("").join(" ")
     console.log(print1)
